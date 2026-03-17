@@ -18,7 +18,14 @@ dependencies:
   meta: ^1.17.0
   sqflite: ^2.4.2
   path: ^1.9.1
-  image_picker: ^1.2.0  
+  image_picker: ^1.2.0
+  http: ^1.6.0
+  flutter_tesseract_ocr: ^0.4.30
+  camera: ^0.12.0
+  path_provider: ^2.0.10
+  flutter_bloc: ^9.1.1
+  provider: ^6.0.2
+  file_picker: ^10.3.10
 
 dev_dependencies:
   flutter_test:
